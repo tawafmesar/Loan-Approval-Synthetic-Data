@@ -15,8 +15,7 @@
 ✅ **20,000 synthetic records**  
 ✅ **5 key financial/demographic columns**  
 ✅ **Realistic value ranges**  
-✅ **Public domain license (CC0)**  
-✅ **Reproducible seed (`np.random.seed(42)`**  
+
 
 ---
 
